@@ -1,0 +1,1597 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-01-17 19:29+0330\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-10-20 22:42+0330\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.6\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: fa_IR\n"
+
+# @ _s
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "متاسفانه صفحه مورد نظر شما پیدا نشد!"
+
+# @ _s
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "موردی یافت نشد. می خواهید جستجو را امتحان کنید؟"
+
+# @ _s
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "دسته بندی های بیشتری استفاده شده"
+
+# @ _s
+#. translators: %1$s: smiley
+#: 404.php:46
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "به بایگانی ماهیانه نگاهی بیاندازید, %1$s"
+
+# @ _s
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه در &ldquo;%2$s&rdquo;"
+
+# @ _s
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "پیشخوان نظر"
+
+# @ _s
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "دیدگاه های قدیمیتر"
+
+# @ _s
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "دیدگاه های جدیدتر"
+
+# @ _s
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "بخش ارسال دیدگاه بسته است."
+
+# @ _s
+#: functions.php:102
+msgid "Sidebar"
+msgstr "ستون"
+
+# @ _s
+#: functions.php:102
+msgid "Post"
+msgstr "مطلب"
+
+# @ _s
+#: functions.php:102
+msgid "Footer 1"
+msgstr "پابرگ اول"
+
+# @ _s
+#: functions.php:102
+msgid "Footer 2"
+msgstr "پابرگ دوم"
+
+# @ _s
+#: functions.php:102
+msgid "Footer 3"
+msgstr "پابرگ سوم"
+
+# @ _s
+#: functions.php:102
+msgid "Footer 4"
+msgstr "پابرگ چهارم"
+
+# @ _s
+#: header.php:38
+msgid "Primary"
+msgstr "منوی اصلی"
+
+# @ _s
+#: header.php:38
+msgid "Top Menu"
+msgstr "منوی سربرگ"
+
+# @ _s
+msgid "Mobile Menu"
+msgstr "منوی موبایل"
+
+# @ _s
+msgid "Footer Menu"
+msgstr "منوی پابرگ"
+
+# @ _s
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+# @ _s
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+# @ _s
+#: inc/template-tags.php:52
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+# @ _s
+#: inc/template-tags.php:64
+msgid "0"
+msgstr "0"
+
+# @ _s
+#: inc/template-tags.php:64
+msgid "1"
+msgstr "1"
+
+# @ _s
+#: inc/template-tags.php:64
+#, php-format
+msgid "%"
+msgstr "%"
+
+# @ _s
+#. translators: %s: Name of current post
+#: inc/template-tags.php:71 template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr "ویرایش %s"
+
+# @ _s
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+# @ _s
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "هیچ چیز یافت نشد"
+
+# @ _s
+#: template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "برای ارسال اولین مطلب خود آماده اید؟ <a href=\"%1$s\">از اینجا شروع کنید</a>."
+
+# @ _s
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "متاسفانه، مورد مرتبطی با ورودی مد نظر شما یافت نشد. لطفا با یک کلمه کلیدی جدید دوباره تلاش نمایید."
+
+# @ _s
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به نظر می رسد مورد مد نظر شما را نمی توان یافت. ممکن است با جستجو به نتیجه برسید."
+
+# @ _s
+#: template-parts/content-page.php:21 template-parts/content-single.php:25
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr "صفحات:"
+
+# @ _s
+#. translators: %s: Name of current post.
+#: template-parts/content.php:27
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "مشاهده جزئیات %s <span class=\"meta-nav\">&rarr;</span>"
+
+# @ _s
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "خودکار"
+
+# Theme Options
+#. Author of the plugin/theme
+msgid "Theme Options"
+msgstr "تنظیمات پوسته"
+
+# Theme Options updated
+#. Author of the plugin/theme
+msgid "Theme Options updated."
+msgstr "تنظیمات پوسته بروزرسانی شد."
+
+# Theme Options reset
+#. Author of the plugin/theme
+msgid "Theme Options reset."
+msgstr "تنظیمات پوسته به حالت پیش فرض بازگشت."
+
+# Theme Options Save Changes
+#. Author of the plugin/theme
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+# @ _s
+msgid "IranoMag: Most populare post widget"
+msgstr "ایرانومگ: پربازدیدترین مطالب"
+
+# @ _s
+msgid "Add widgets here."
+msgstr "ابزارک ها را اینجا قرار دهید."
+
+# @ _s
+msgid "Meta Box"
+msgstr "جعبه ابزار مطلب"
+
+# @ _s
+msgid "Attributes"
+msgstr "خصوصیات"
+
+# @ _s
+msgid "Featured Post"
+msgstr "مطلب ویژه"
+
+# @ _s
+msgid "By Featured Post"
+msgstr "بر اساس مطلب ویژه"
+
+# @ _s
+msgid "is this Post Featured?"
+msgstr "در صورتی که این مطلب یک مطلب ویژه است، این گزینه را فعال کنید."
+
+# @ _s
+msgid "Post Category"
+msgstr "دسته مطلب"
+
+# @ _s
+msgid "Select a Category for Post"
+msgstr "یک دسته به عنوان دسته اصلی مطلب انتخاب نمایید."
+
+# @ _s
+msgid "Layout"
+msgstr "طرح بندی"
+
+# @ _s
+msgid "Post Layout"
+msgstr "طرح بندی مطلب"
+
+# @ _s
+msgid "Choose a style for post to display in frontend."
+msgstr "از طریق این بخش می توانید نحوه نمایش مطلب برای کاربران را تعیین نمایید."
+
+# @ _s
+msgid "Review & Rating"
+msgstr "نقد و بررسی"
+
+# @ _s
+msgid "is Post a Review?"
+msgstr "نقد و بررسی"
+
+# @ _s
+msgid "Selected Post is a Review"
+msgstr "اگر این مطلب شامل نقد و بررسی می شود این گزینه را فعال کنید."
+
+# @ _s
+msgid "Review Title"
+msgstr "عنوان نقد و بررسی"
+
+# @ _s
+msgid "Set a title for your Review."
+msgstr "عنوان نقد و بررسی را در این قسمت وارد نمایید. این عنوان در هنگام مشاهده مطلب نمایش داده می شود"
+
+# @ _s
+msgid "Ratings"
+msgstr "امتیازدهی"
+
+# @ _s
+msgid "In this section you can review the post by choosing rates between 0 to 10."
+msgstr "در این بخش می توانید برای هر بخش از نقد و بررسی خود یک امتیاز از 0 تا 10 انتخاب نمایید."
+
+# @ _s
+msgid "Score"
+msgstr "امتیاز"
+
+# @ _s
+msgid "Value should be between 0-10"
+msgstr "از 0 تا 10 یک عدد انتخاب نمایید."
+
+# @ _s
+msgid "Review Average"
+msgstr "میانگین امتیازات"
+
+# @ _s
+msgid "This is average score of the review. You can edit this but it is not recommended."
+msgstr "میانگین امتیازات نقد و بررسی در این مکان قرار دارد. شما می توانید آن را ویرایش کنید (توصیه نمی شود!!!). این عدد جهت نمایش امتیاز نقد و بررسی و همچنین نمایش مطلب در ابزارک ها بر اساس امتیاز کاربرد دارد."
+
+# @ _s
+msgid "Pros/Cons"
+msgstr "نکات مثبت و منفی"
+
+# @ _s
+msgid "You can add Pros & Cons for your review."
+msgstr "در این مکان می توانید نکات مثبت و منفی نقد و بررسی را نمایش دهید."
+
+# @ _s
+msgid "Pros or Cons"
+msgstr "نکته مثبت یا منفی؟"
+
+# @ _s
+msgid "Choose between Pros or Cons."
+msgstr "آیا این مورد یک نکته مثبت است یا منفی؟"
+
+# @ _s
+msgid "Pros"
+msgstr "نکته مثبت"
+
+# @ _s
+msgid "Cons"
+msgstr "نکته منفی"
+
+# @ _s
+msgid "IranoMag: Advertisement widget"
+msgstr "ایرانومگ: تبلیغات"
+
+# @ _s
+msgid "IranoMag: Multi advertisement widget"
+msgstr "ایرانومگ: تبلیغات 125x125"
+
+# @ _s
+msgid "Video Section"
+msgstr "ویدئو"
+
+# @ _s
+msgid "Post has Video?"
+msgstr "آیا این مطلب دارای ویدئو است؟"
+
+# @ _s
+msgid "Post has Audio?"
+msgstr "آیا این مطلب دارای فایل صوتی است؟"
+
+# @ _s
+msgid "If selected post has a video turn this on."
+msgstr "در صورتی که این مطلب دارای یک فایل ویدئویی است، می توانید این گزینه را فعال نمایید. این بخش تنها ویدئوهای آپارات و نماشا را نمایش می دهد."
+
+# @ _s
+msgid "If selected post has a audio turn this on."
+msgstr "در صورتی که این مطلب دارای یک فایل صوتی است، می توانید این گزینه را فعال نمایید."
+
+# @ _s
+msgid "Video URL"
+msgstr "آدرس ویدئو"
+
+# @ _s
+msgid "Audio URL"
+msgstr "آدرس فایل صوتی"
+
+# @ _s
+msgid "Put URL of the Audio File here."
+msgstr "آدرس فایل صوتی را در این بخش وارد نمایید."
+
+# @ _s
+msgid "Put URL of the Video here."
+msgstr "آدرس صفحه ویدئو در سایت آپارات و نماشا را در این بخش وارد نمایید."
+
+# @ _s
+msgid "Audio Format"
+msgstr "فرمت فایل صوتی"
+
+# @ _s
+msgid "Supported Formats: MP3, Ogg & Wav"
+msgstr "فرمت های پشتیبانی شده: MP3, Ogg و Wav"
+
+# @ _s
+msgid "Vote This Article"
+msgstr "امتیاز شما به مطلب"
+
+# @ _s
+msgid "Like"
+msgstr "دوست داشتم: "
+
+# @ _s
+msgid "Dislike"
+msgstr "دوست نداشتم: "
+
+# @ _s
+msgid "Average"
+msgstr "میانگین امتیازات: "
+
+# @ _s
+msgid "Tags"
+msgstr "برچسب ها"
+
+# @ _s
+msgid "About Author"
+msgstr "درباره نویسنده"
+
+# @ _s
+msgid "prev chapter: %title"
+msgstr "%title"
+
+# @ _s
+msgid "next chapter: %title"
+msgstr "%title"
+
+# @ _s
+msgid "Before"
+msgstr "قبلی"
+
+# @ _s
+msgid "After"
+msgstr "بعدی"
+
+# @ _s
+msgid "Write a Reply or Comment"
+msgstr "پاسخ دهید"
+
+# @ _s
+msgid "Comment edit"
+msgstr "ویرایش دیدگاه"
+
+# @ _s
+msgid "Comment awaiting moderation"
+msgstr "دیدگاه شما در انتظار بررسی است؛ لطفا صبور باشید."
+
+# @ _s
+msgid "Maybe the page you requested not exists."
+msgstr "ممکن است برگه مورد نظر شما وجود نداشته باشد."
+
+# @ _s
+msgid "Please check your page name or address again."
+msgstr "نام یا آدرس برگه مورد نظر خود را مجددا بررسی نمایید."
+
+# @ _s
+msgid "Maybe you have no permission to access this page."
+msgstr "ممکن است شما دسترسی لازم برای مشاهده برگه مورد نظر را نداشته باشید."
+
+# @ _s
+msgid "Maybe your requested page is a members only one, Please Register or Sign in."
+msgstr "ممکن است برگه مورد نظر تنها برای اعضای سایت باشد؛ لذا برای ثبت نام و یا ورود به سایت اقدام نمایید."
+
+# @ _s
+msgid "Your requested page exists? Please contact the site administrator."
+msgstr "از وجود برگه، اطمینان دارید؟ با مدیریت سایت تماس بگیرید."
+
+# @ _s
+msgid "Archive"
+msgstr "بایگانی"
+
+# @ _s
+msgid "Author"
+msgstr "نویسنده"
+
+# @ _s
+msgid "Search"
+msgstr "جستجو"
+
+# @ _s
+msgid "IranoMag: Newest Posts"
+msgstr "ایرانومگ: جدیدترین مطالب"
+
+# @ _s
+msgid "Display Newest Posts."
+msgstr "نمایش جدیدترین مطالب."
+
+# @ _s
+msgid "Display Rest of Category Posts"
+msgstr "مشاهده همه مطالب دسته "
+
+# @ _s
+msgid "Display All"
+msgstr "مشاهده همه"
+
+# @ _s
+msgid "New Posts"
+msgstr "مطالب جدید"
+
+# @ _s
+msgid "Title"
+msgstr "عنوان"
+
+# @ _s
+msgid "Category"
+msgstr "دسته بندی:"
+
+# @ _s
+msgid "Display From All Categories"
+msgstr "نمایش از تمام دسته ها"
+
+# @ _s
+msgid "Select a Category to Display Posts From"
+msgstr "یک دسته را به عنوان دسته مبدأ برای فراخوانی مطالب انتخاب نمایید."
+
+# @ _s
+msgid "Tag"
+msgstr "برچسب:"
+
+# @ _s
+msgid "Put Tag ID Here, Example: (1,2,3,15,20). <br/><b>This Field is Nullable.</b>"
+msgstr "شناسه(ID) برچسب مورد نظر را در این قسمت وارد نمایید. برچسب ها را با استفاده از ',' از یکدیگر جدا نمایید. مثال: (1, 2, 3, 15, 20). <br/><b>این قسمت می تواند خالی باشد.</b>"
+
+# @ _s
+msgid "Post Count"
+msgstr "تعداد مطالب:"
+
+# @ _s
+msgid "Put Number of Post to Display Here, Example: 10,100,1000."
+msgstr "تعداد مطالب مورد نظر جهت نمایش را وارد نمایید. مثال: 10 یا 100 یا 1000"
+
+# @ _s
+msgid "Display By"
+msgstr "نمایش بر اساس"
+
+# @ _s
+msgid "Publish Date"
+msgstr "تاریخ انتشار"
+
+# @ _s
+msgid "Comments Count"
+msgstr "تعداد دیدگاه ها"
+
+# @ _s
+msgid "Random"
+msgstr "تصادفی"
+
+# @ _s
+msgid "Reviews"
+msgstr "نقد و بررسی"
+
+# @ _s
+msgid "User Votes"
+msgstr "امتیاز کاربران"
+
+# @ _s
+msgid "DESC"
+msgstr "از انتها تا ابتدا"
+
+# @ _s
+msgid "ASC"
+msgstr "از ابتدا تا انتها"
+
+# @ _s
+msgid "Display From"
+msgstr "نمایش از"
+
+# @ _s
+msgid "Display By Style"
+msgstr "نمایش به شکل"
+
+# @ _s
+msgid "List"
+msgstr "لیست"
+
+# @ _s
+msgid "List with Thumbnail"
+msgstr "لیست با تصویر شاخص"
+
+# @ _s
+msgid "List with Featured Thumbnail"
+msgstr "لیست با تصویر شاخص بزرگ"
+
+# @ _s
+msgid "Display Advertisements."
+msgstr "نمایش تبلیغات."
+
+# @ _s
+msgid "Display Most Populare Posts."
+msgstr "نمایش پربازدیدترین مطالب."
+
+# @ _s
+msgid "Most Populare Posts"
+msgstr "پربازدیدترین مطالب"
+
+# @ _s
+msgid "Week"
+msgstr "هفته"
+
+# @ _s
+msgid "Month"
+msgstr "ماه"
+
+# @ _s
+msgid "Year"
+msgstr "سال"
+
+# @ _s
+msgid "Gap"
+msgstr "فاصله"
+
+# @ _s
+msgid "IranoMag"
+msgstr "ایرانومگ"
+
+# @ _s
+msgid "Gap Height"
+msgstr "مقدار فاصله"
+
+# @ _s
+msgid "Enter height of the gap in px."
+msgstr "مقدار فاصله را بر حسب پیکسل در این بخش وارد نمایید."
+
+# @ _s
+msgid "Add a gap to seperate elements"
+msgstr "یک فاصله برای جداسازی عناصر صفحه اضافه می کند."
+
+# @ _s
+msgid "Image"
+msgstr "تصویر"
+
+# @ _s
+msgid "Select Image"
+msgstr "انتخاب تصویر"
+
+# @ _s
+msgid "Full Width?"
+msgstr "تمام صفحه؟"
+
+# @ _s
+msgid "If selected, the image will always fill its container"
+msgstr "اگر انتخاب شود، تصویر تمام عرض صفحه را در بر خواهد گرفت."
+
+# @ _s
+msgid "Image size"
+msgstr "اندازه تصویر"
+
+# @ _s
+msgid "Enter image size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use 'thumbnail' size."
+msgstr "اندازه تصویر را وارد کنید. مثال: thumbnail, medium, large, full یا اندازه های تعیین شده در این پوسته. همچنین می توانید اندازه های دلخواه بر حسب پیکسل نیز وارد نمایید: 200px در 100px )عرض و طول(. در صورت خالی بودن اندازه thumbnail استفاده می شود."
+
+# @ _s
+msgid "Image alignment"
+msgstr "جهت تصویر"
+
+# @ _s
+msgid "Align left"
+msgstr "چپ"
+
+# @ _s
+msgid "Align right"
+msgstr "راست"
+
+# @ _s
+msgid "Align center"
+msgstr "وسط"
+
+# @ _s
+msgid "Image link"
+msgstr "آدرس تصویر"
+
+# @ _s
+msgid "Enter url if you want this image to have link."
+msgstr "در صورتی که تمایل دارید تصویر دارای پیوند باید، یک آدرس در این مکان قرار دهید."
+
+# @ _s
+msgid "Add an image"
+msgstr "یک تصویر به صفحه اضافه می کند."
+
+# @ _s
+msgid "Posts Carousel"
+msgstr "نوار مطلب"
+
+# @ _s
+msgid "Posts Source"
+msgstr "منبع مطلب"
+
+# @ _s
+msgid "Most Recent"
+msgstr "جدیدترین ها"
+
+# @ _s
+msgid "By Category"
+msgstr "بر اساس دسته بندی"
+
+# @ _s
+msgid "By Post ID"
+msgstr "بر اساس شناسه"
+
+# @ _s
+msgid "By Tag"
+msgstr "بر اساس برچسب"
+
+# @ _s
+msgid "By Author"
+msgstr "بر اساس نویسنده"
+
+# @ _s
+msgid "Top Reviews"
+msgstr "بر اساس برترین نقد و بررسی ها"
+
+# @ _s
+msgid "Latest Reviews"
+msgstr "بر اساس جدیدترین نقد و بررسی ها"
+
+# @ _s
+msgid "Top User Vote"
+msgstr "بر اساس امتیاز کاربران"
+
+# @ _s
+msgid "Select the source of the posts you'd like to show."
+msgstr "منبع فراخوانی مطالب را انتخاب نمایید."
+
+# @ _s
+msgid "Post Categories"
+msgstr "دسته بندی مطلب"
+
+# @ _s
+msgid "Which categories would you like to show?"
+msgstr "می خواهید کدام دسته بندی ها نمایش داده شوند؟"
+
+# @ _s
+msgid "Number of posts"
+msgstr "تعداد مطالب"
+
+# @ _s
+msgid "The number of posts to show."
+msgstr "تعداد مطالب جهت نمایش"
+
+# @ _s
+msgid "Excluded Tag IDs"
+msgstr "شناسه برچسب های حذف شده"
+
+# @ _s
+msgid "Enter the tag ids you would like to exclude from the most recent posts separated by comma"
+msgstr "شناسه برچسب هایی که نمی خواهید در جدیدترین مطالب نمایش داده شوند را با ',' وارد نمایید."
+
+# @ _s
+msgid "Excluded Category IDs"
+msgstr "شناسه دسته های حذف شده"
+
+# @ _s
+msgid "Enter the category ids you would like to exclude from the most recent posts separated by comma"
+msgstr "شناسه دسته هایی که نمی خواهید در جدیدترین مطالب نمایش داده شوند را با ',' وارد نمایید."
+
+# @ _s
+msgid "Post IDs"
+msgstr "شناسه مطلب"
+
+# @ _s
+msgid "Enter the post IDs you would like to display seperated by comma"
+msgstr "شناسه مطالبی که می خواهید نمایش داد شوند را با ',' وارد نمایید."
+
+# @ _s
+msgid "Tag slugs"
+msgstr "نامک برچسب"
+
+# @ _s
+msgid "Enter the tag slugs you would like to display seperated by comma"
+msgstr "نامک برچسب هایی که می خواهید نمایش داد شوند را با ',' وارد نمایید."
+
+# @ _s
+msgid "Author IDs"
+msgstr "شناسه نویسنده"
+
+# @ _s
+msgid "Enter the Author IDs you would like to display seperated by comma"
+msgstr "شناسه نویسنده ای که می خواهید نمایش داد شوند را با ',' وارد نمایید."
+
+# @ _s
+msgid "Offset"
+msgstr "صرف نظر کردن"
+
+# @ _s
+msgid "You can offset your post with the number of posts entered in this setting"
+msgstr "در این قسمت می توانید تعداد مطالبی که می خواهید از ابتدای لیست در نظر گرفته نشده و نمایش داده نشوند را وارد کنید."
+
+# @ _s
+msgid "Display Posts from your blog in a Carousel"
+msgstr "مطالب وب سایت را در قالب یک نوار مطلب نمایش می دهد."
+
+# @ _s
+msgid "Display Category Title?"
+msgstr "نمایش عنوان دسته بندی؟"
+
+# @ _s
+msgid "If selected, the category title will be displayed on top"
+msgstr "اگر انتخاب شود، عنوان دسته بندی در بالای ابزارک نمایش داده خواهد شد."
+
+# @ _s
+msgid "Style"
+msgstr "استایل"
+
+# @ _s
+msgid "Style 1"
+msgstr "استایل 1"
+
+# @ _s
+msgid "Style 2"
+msgstr "استایل 2"
+
+# @ _s
+msgid "Style 3"
+msgstr "استایل 3"
+
+# @ _s
+msgid "Style 4"
+msgstr "استایل 4"
+
+# @ _s
+msgid "Style 5"
+msgstr "استایل 5"
+
+# @ _s
+msgid "Style 6"
+msgstr "استایل 6"
+
+# @ _s
+msgid "This changes the style of the posts"
+msgstr "از این بخش استایل نمایش ابزارک را تغییر دهید."
+
+# @ _s
+msgid "Display Post Content?"
+msgstr "نمایش متن مطلب؟"
+
+# @ _s
+msgid "If selected, the content of the post will be displayed"
+msgstr "اگر انتخاب شده باشد، متن مطالب نمایش داده خواهد شد."
+
+# @ _s
+msgid "The number of posts to show.<small>Minium 1</small>"
+msgstr "تعداد مطالب جهت نمایش. <small>حداقل 1</small>"
+
+# @ _s
+msgid "Display a Category with posts"
+msgstr "مطالب یک دسته بندی را نمایش می دهد."
+
+# @ _s
+msgid "This changes the layouts of the grids"
+msgstr "استایل نمایش شبکه مطالب را تغییر می دهد."
+
+# @ _s
+msgid "Columns"
+msgstr "ستون ها"
+
+# @ _s
+msgid "Four Columns"
+msgstr "4 ستون"
+
+# @ _s
+msgid "Three Columns"
+msgstr "3 ستون"
+
+# @ _s
+msgid "Two Columns"
+msgstr "2 ستون"
+
+# @ _s
+msgid "Select the layout of the posts."
+msgstr "طرح بندی مطالب را انتخاب نمایید."
+
+# @ _s
+msgid "Display your posts in different grid layouts."
+msgstr "شبکه ای از مطالب را نمایش می دهد."
+
+# @ _s
+msgid "Display different grid layouts inside a carousel"
+msgstr "مطالب را صورت شاخص نمایش نمایش می دهد."
+
+# @ _s
+msgid "Display different grid layouts inside a box"
+msgstr "مطالب را صورت شاخص نمایش نمایش می دهد."
+
+# @ _s
+msgid "The title text"
+msgstr "متن عنوان"
+
+# @ _s
+msgid "Color"
+msgstr "رنگ"
+
+# @ _s
+msgid "Light"
+msgstr "روشن"
+
+# @ _s
+msgid "Dark"
+msgstr "تیره"
+
+# @ _s
+msgid "This changes the color of the title"
+msgstr "رنگ عنوان را تغییر می دهد."
+
+# @ _s
+msgid "Add a title to your sections"
+msgstr "یک عنوان به صفحه اضافه می کند."
+
+# @ _s
+msgid "This changes the color of the video playlist"
+msgstr "رنگ لیست پخش ویدئو را تغییر می دهد."
+
+# @ _s
+msgid "Display your video posts in a playlist"
+msgstr "لیست پخش ویدئو را نمایش می دهد."
+
+# @ _s
+msgid "Video Playlist"
+msgstr "لیست پخش ویدئو"
+
+# @ _s
+msgid "Post Block"
+msgstr "بلوک مطلب"
+
+# @ _s
+msgid "Display a post in block grid layouts."
+msgstr "یک مطلب را به صورت بلوک تمام صفحه نمایش می دهد."
+
+# @ _s
+msgid "Posts Grid"
+msgstr "شبکه مطالب"
+
+# @ _s
+msgid "Posts Grid Box"
+msgstr "شبکه شاخص مطالب"
+
+# @ _s
+msgid "Posts Category"
+msgstr "مطالب دسته"
+
+# @ _s
+msgid "not found :("
+msgstr "یافت نشد :("
+
+# @ _s
+msgid "The page you requested was not found! Please check the items below or use the Search section."
+msgstr "صفحه مورد نظر شما یافت نشد! لطفا موارد زیر را بررسی و یا از بخش جستجو استفاده نمایید."
+
+# @ _s
+msgid "Activate Mega Menu"
+msgstr "نمایش به صورت مگا منو"
+
+# @ _s
+msgid "Enable"
+msgstr "فعال سازی"
+
+# @ _s
+msgid "This is Optional!"
+msgstr "فعال سازی این گزینه اختیاری است."
+
+# @ _s
+msgid "Warning: if There is no Sub-Menu for this Item or the Selected Items are NOT Categories, do NOT Use this Option."
+msgstr "نکته مهم: در صورتی که زیر منویی برای این بخش انتخاب نشده باشد و یا زیر منوی انتخابی از بخش \"دسته ها\" نباشد، حتما این گزینه را غیر فعال نمایید."
+
+# @ _s
+msgid "Enter the Search Query Here..."
+msgstr "عبارت جستجو را اینجا وارد کنید..."
+
+# @ _s
+msgid "Find"
+msgstr "بگرد"
+
+# @ _s
+msgid "Choose Category Color"
+msgstr "انتخاب رنگ دسته"
+
+# @ _s
+msgid "Category Color"
+msgstr "رنگ دسته"
+
+# @ _s
+msgid "Facebook"
+msgstr "فیسبوک"
+
+# @ _s
+msgid "Twitter"
+msgstr "توییتر"
+
+# @ _s
+msgid "Google +"
+msgstr "گوگل +"
+
+# @ _s
+msgid "LinkedIn"
+msgstr "لینکداین"
+
+# @ _s
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+# @ _s
+msgid "Telegram"
+msgstr "تلگرام"
+
+# @ _s
+msgid "Aparat"
+msgstr "آپارات"
+
+# @ _s
+msgid "YouTube"
+msgstr "یوتیوب"
+
+# @ _s
+msgid "General"
+msgstr "عمومی"
+
+# @ _s
+msgid "Advertisements"
+msgstr "تبلیغات"
+
+# @ _s
+msgid "Header Options"
+msgstr "تنظیمات سربرگ"
+
+# @ _s
+msgid "Customization"
+msgstr "شخصی سازی"
+
+# @ _s
+msgid "Content Options"
+msgstr "تنظیمات محتوی"
+
+# @ _s
+msgid "Footer Options"
+msgstr "تنظیمات پابرگ"
+
+# @ _s
+msgid "Site Details"
+msgstr "مشخصات سایت"
+
+# @ _s
+msgid "Site Name"
+msgstr "نام سایت"
+
+# @ _s
+msgid "Enter the name of your site. The name may be used in different parts of the theme, so enter the correct one."
+msgstr "نام سایت خود را در این مکان وارد کنید. این نام ممکن است در بخش های مختلف پوسته به کار رفته باشد، بنابراین در وارد نمودن صحیح آن دقت نمایید."
+
+# @ _s
+msgid "Meta Descriptions"
+msgstr "توضیحات متا"
+
+# @ _s
+msgid "Write a short description about your site. The text in this section will be inserted as the meta description of your site in the page title (HTML Tag)."
+msgstr "در این مکان توضیحات کوتاهی در مورد سایت خود بنویسید. متن موجود در این بخش به عنوان توضیحات متای سایت شما در عنوان صفحه (HTML) درج خواهد شد."
+
+# @ _s
+msgid "IranoMag 2 WordPress theme, Designed by IranoWeb."
+msgstr "پوسته مجله خبری ایرانومگ 2 طراحی شده توسط ایرانووب، برای وردپرس فارسی"
+
+# @ _s
+msgid "Date Format"
+msgstr "ساختار تاریخ"
+
+# @ _s
+msgid "In this section, you can specify the date format used in the theme. This format used in all parts of this theme. <br /> Default Format: <code> l, j FY </code> <br /> <p class=\"warning\"> If you use extensions, the desired format may not works. In this case set the date format from <code> Settings > Date Format > Custom </code></p>"
+msgstr "در این بخش می توانید ساختار تاریخ مورد استفاده در پوسته را تعیین نمایید. این ساختار در تمام بخش های پوسته لحاظ می شود.<br />ساختار پیش فرض: <code>l, j F Y</code><br /><p class=\"warning\">در صورت استفاده از افزونه های اضافه ممکن است تاریخ دارای ساختار مورد نظر شما نباشد. در این حالت لازم است ساختار از بخش <code>تنظیمات &gt; ساختار تاریخ &gt; دلخواه</code>تعیین شود.</p>"
+
+# @ _s
+msgid "Site Icon"
+msgstr "آیکون سایت"
+
+# @ _s
+msgid "From this section you can specify an icon.<br /><p class=\"warning\">Recommendation: Use an image in png or ico format with the size of 64x64 for this section.</p>"
+msgstr "از این بخش می توانید برای سایت، یک آیکون تعیین نمایید.<br /><p class=\"warning\">توصیه: یک تصویر با فرمت png یا ico و حداکثر اندازه 64x64 به عنوان آیکون انتخاب نمایید.</p>"
+
+# @ _s
+msgid "Social Networks"
+msgstr "شبکه های اجتماعی"
+
+# @ _s
+msgid "Put your Facebook page URL Here."
+msgstr "آدرس صفحه سایت خود در فیسبوک را در این مکان قرار دهید."
+
+# @ _s
+msgid "Put your Twitter page URL Here."
+msgstr "آدرس صفحه سایت خود در توییتر را در این مکان قرار دهید."
+
+# @ _s
+msgid "Put your Google + page URL Here."
+msgstr "آدرس صفحه سایت خود در گوگل پلاس را در این مکان قرار دهید."
+
+# @ _s
+msgid "Put your LinkedIn page URL Here."
+msgstr "آدرس صفحه سایت خود در لینکداین را در این مکان قرار دهید."
+
+# @ _s
+msgid "Put your Instagram page URL Here."
+msgstr "آدرس صفحه سایت خود در اینستاگرام را در این مکان قرار دهید."
+
+# @ _s
+msgid "Put your Telegram URL Here."
+msgstr "آدرس صفحه سایت خود در تلگرام را در این مکان قرار دهید."
+
+# @ _s
+msgid "Put your Aparat page URL Here."
+msgstr "آدرس صفحه سایت خود در آپارات را در این مکان قرار دهید."
+
+# @ _s
+msgid "Put your YouTube page URL Here."
+msgstr "آدرس صفحه سایت خود در یوتیوب را در این مکان قرار دهید."
+
+# @ _s
+msgid "Header Ads"
+msgstr "تبلیغات سربرگ"
+
+# @ _s
+msgid "This section allows you to display any text or image in your header."
+msgstr "در این بخش می توانید هر نوع متن یا تصویری را جهت نمایش در سربرگ قرار دهید."
+
+# @ _s
+msgid "After Header Ads"
+msgstr "تبلیغات بالای سایت"
+
+# @ _s
+msgid "The content of this section will be displayed after the main menu."
+msgstr "تبلیغات بالای سایت را از این مکان مدیریت نمایید. محتوای این بخش بعد از منوی اصلی نمایش داده خواهد شد."
+
+# @ _s
+msgid "Header"
+msgstr "سربرگ"
+
+# @ _s
+msgid "Full Width"
+msgstr "تمام صفحه"
+
+# @ _s
+msgid "When you turn on this option, the Header will displayed in full width."
+msgstr "عرض سربرگ را می توانید از این بخش مدیریت نمایید. در صورت روشن بودن این گزینه، سربرگ به صورت تمام صفحه نمایش داده می شود."
+
+# @ _s
+msgid "Header Layout"
+msgstr "طرح سربرگ"
+
+# @ _s
+msgid "From this section you can choose how to display the header."
+msgstr "از این بخش می توانید نحوه نمایش سربرگ را مدیریت نمایید."
+
+# @ _s
+msgid "Header Color"
+msgstr "رنگ سربرگ"
+
+# @ _s
+msgid "Header color can specify from this section. More options form <code>Customization</code> tab."
+msgstr "رنگ سربرگ را می توانید از این بخش مدیریت نمایید. در صورت انتخاب گزینه تیره، محتوای سربرگ با رنگ سفید و پس زمینه آن با رنگ مشکی و برعکس برای گزینه روشن، نمایش داده خواهد شد. رنگ پس زمینه سربرگ را می توانید از بخش <code>شخصی سازی</code> نیز به دلخواه تغییر دهید."
+
+# @ _s
+msgid "Display"
+msgstr "نمایش"
+
+# @ _s
+msgid "Enable/Disable Top Menu."
+msgstr "فعال/غیر فعال بودن منوی سربرگ را می توانید از طریق این بخش انتخاب نمایید."
+
+# @ _s
+msgid "When you turn on this option, the top menu will displayed in full width."
+msgstr "عرض منوی سربرگ را می توانید از این بخش مدیریت نمایید. در صورت روشن بودن این گزینه، منوی سربرگ به صورت تمام صفحه نمایش داده می شود."
+
+# @ _s
+msgid "Top Menu Color"
+msgstr "رنگ منوی سربرگ"
+
+# @ _s
+msgid "Top Menu color can specify from this section. More options form <code>Customization</code> tab."
+msgstr "رنگ منوی سربرگ را می توانید از این بخش مدیریت نمایید. در صورت انتخاب گزینه تیره، محتوای منوی سربرگ با رنگ سفید و پس زمینه آن با رنگ مشکی و برعکس برای گزینه روشن، نمایش داده خواهد شد. رنگ پس زمینه منوی سربرگ را می توانید از بخش <code>شخصی سازی</code> نیز به دلخواه تغییر دهید."
+
+# @ _s
+msgid "Main Menu"
+msgstr "منوی اصلی"
+
+# @ _s
+msgid "When you turn on this option, the Main Menu will displayed in full width."
+msgstr "عرض منوی اصلی را می توانید از این بخش مدیریت نمایید. در صورت روشن بودن این گزینه، منوی اصلی به صورت تمام صفحه نمایش داده می شود."
+
+# @ _s
+msgid "Main Menu Color"
+msgstr "رنگ منو"
+
+# @ _s
+msgid "Main Menu color can specify from this section. More options form <code>Customization</code> tab."
+msgstr "رنگ منوی اصلی را می توانید از این بخش مدیریت نمایید. در صورت انتخاب گزینه تیره، محتوای منوی اصلی با رنگ سفید و پس زمینه آن با رنگ مشکی و برعکس برای گزینه روشن، نمایش داده خواهد شد. رنگ پس زمینه منوی اصلی را می توانید از بخش <code>شخصی سازی</code> نیز به دلخواه تغییر دهید."
+
+# @ _s
+msgid "Fixed Menu"
+msgstr "منوی ثابت"
+
+# @ _s
+msgid "When you turn on this option, the Fixed Menu will displayed in full width."
+msgstr "عرض منوی ثابت را می توانید از این بخش مدیریت نمایید. در صورت روشن بودن این گزینه، منوی ثابت به صورت تمام صفحه نمایش داده می شود."
+
+# @ _s
+msgid "Logo"
+msgstr "لوگو"
+
+# @ _s
+msgid "Logo Image"
+msgstr "تصویر لوگو"
+
+# @ _s
+msgid "This image will be displayed in the Header and also Mobile Menu tab."
+msgstr "یک تصویر به عنوان لوگوی سایت انتخاب نمایید. این تصویر در سربرگ و همچنین منوی موبایل سربرگ نمایش داده خواهد شد."
+
+# @ _s
+msgid "Logo Height"
+msgstr "ارتفاع تصویر"
+
+# @ _s
+msgid "Specify the maximum height of the logo image."
+msgstr "حداکثر ارتفاع تصویر لوگو را در این بخش مشخص نمایید."
+
+# @ _s
+msgid "Fixed Header Logo Image"
+msgstr "تصویر لوگوی ثابت"
+
+# @ _s
+msgid "This image will be displayed in the Fixed Header."
+msgstr "یک تصویر به عنوان لوگوی سایت انتخاب نمایید. این تصویر در منوی ثابت سربرگ نمایش داده خواهد شد."
+
+# @ _s
+msgid "Accent Color"
+msgstr "رنگ غالب"
+
+# @ _s
+msgid "This color will be used as the default color for all elements of the theme."
+msgstr "رنگ غالب پوسته را از این بخش انتخاب نمایید. این رنگ برای تمام عناصر پوسته به عنوان رنگ پیشفرض استفاده خواهد شد."
+
+# @ _s
+msgid "Additional CSS"
+msgstr "استایل اضافه"
+
+# @ _s
+msgid "In this section, you can customize theme style. To do this, simply put the CSS code in here."
+msgstr "در این بخش می توانید استایل دلخواه خود را به پوسته اضافه نمایید. برای این کار تنها کافیست کد استایل مورد نظر خود را در این قسمت قرار دهید."
+
+# @ _s
+msgid "Theme Color"
+msgstr "رنگ پوسته"
+
+# @ _s
+msgid "Theme Background"
+msgstr "پس زمینه پوسته"
+
+# @ _s
+msgid "Color, image and background properties for theme background."
+msgstr "رنگ، تصویر و خاصیت های مورد نظر برای پس زمینه سایت را از این بخش مدیریت نمایید."
+
+# @ _s
+msgid "Header Background"
+msgstr "پس زمینه سربرگ"
+
+# @ _s
+msgid "Color, image and background properties for theme Header."
+msgstr "در این بخش می توانید برای سربرگ رنگ و تصویر دلخواه تعیین نمایید."
+
+# @ _s
+msgid "Top Menu Background"
+msgstr "پس زمینه منوی سربرگ"
+
+# @ _s
+msgid "Color, image and background properties for theme Top Menu."
+msgstr "در این بخش می توانید برای منوی سربرگ رنگ و تصویر دلخواه تعیین نمایید."
+
+# @ _s
+msgid "Main Menu Background"
+msgstr "پس زمینه منوی اصلی"
+
+# @ _s
+msgid "Color, image and background properties for theme Main Menu."
+msgstr "در این بخش می توانید برای منوی اصلی رنگ و تصویر دلخواه تعیین نمایید."
+
+# @ _s
+msgid "Footer Background"
+msgstr "پس زمینه پابرگ"
+
+# @ _s
+msgid "Color, image and background properties for theme Footer."
+msgstr "در این بخش می توانید برای پابرگ رنگ و تصویر دلخواه تعیین نمایید."
+
+# @ _s
+msgid "Sub Footer Background"
+msgstr "پس زمینه کپی رایت"
+
+# @ _s
+msgid "Color, image and background properties for theme Sub Footer."
+msgstr "در این بخش می توانید برای بخش کپی رایت رنگ و تصویر دلخواه تعیین نمایید."
+
+# @ _s
+msgid "You can Select a color for each category. If color selected, The category will be displayed everywhere in theme with this color."
+msgstr "رنگ هر دسته را می توانید از این بخش انتخاب نمایید. این رنگ به عنوان شناسه دسته استفاده و در تمام سایت رنگ دسته؛ رنگ انتخابی شما خواهد بود."
+
+# @ _s
+msgid "Blog Layout"
+msgstr "طرح بلاگ"
+
+# @ _s
+msgid "If you use blog style, the layout of blog can be managed here.<br />You can use Visual Composer to build custom pages."
+msgstr "نمایش مطالب به صورت 2 ستونه و یا تک ستونه در زمان استفاده از حالت بلاگ، از این بخش مدیریت خواهد شد.<br />شما می توانید با استفاده از افزونه Visual Composer صفحات دلخواه خود را بسازید."
+
+# @ _s
+msgid "2 Columns"
+msgstr "2 ستونه"
+
+# @ _s
+msgid "1 Column"
+msgstr "1 ستونه"
+
+# @ _s
+msgid "Add Sidebar"
+msgstr "ستون (Sidebar)"
+
+# @ _s
+msgid "Additional Sidebar"
+msgstr "ستون اضافه"
+
+# @ _s
+msgid "Sidebar ID"
+msgstr "شناسه"
+
+# @ _s
+msgid "Footer"
+msgstr "پابرگ (Footer)"
+
+# @ _s
+msgid "Enable/Disable Footer."
+msgstr "فعال/غیر فعال بودن پابرگ را می توانید از طریق این بخش انتخاب نمایید."
+
+# @ _s
+msgid "When you turn on this option, the Footer will displayed in full width."
+msgstr "عرض پابرگ (Footer) را می توانید از این بخش مدیریت نمایید. در صورت روشن بودن این گزینه، پابرگ به صورت تمام صفحه نمایش داده می شود."
+
+# @ _s
+msgid "Footer Layout"
+msgstr "طرح پابرگ"
+
+# @ _s
+msgid "You can manage footer columns from this section."
+msgstr "از این بخش می توانید نحوه نمایش پابرگ را مدیریت نمایید."
+
+# @ _s
+msgid "4 Widgets"
+msgstr "4 ابزارک"
+
+# @ _s
+msgid "3 Widgets"
+msgstr "3 ابزارک"
+
+# @ _s
+msgid "2 Widgets"
+msgstr "2 ابزارک"
+
+# @ _s
+msgid "Footer Color"
+msgstr "رنگ پابرگ"
+
+# @ _s
+msgid "Footer color can specify from this section. More options form <code>Customization</code> tab."
+msgstr "رنگ پابرگ را می توانید از این بخش مدیریت نمایید. در صورت انتخاب گزینه تیره، محتوای پابرگ با رنگ سفید و پس زمینه آن با رنگ مشکی و برعکس برای گزینه روشن، نمایش داده خواهد شد. رنگ پس زمینه پابرگ را می توانید از بخش <code>شخصی سازی</code> نیز به دلخواه تغییر دهید."
+
+# @ _s
+msgid "Sub Footer"
+msgstr "کپی رایت"
+
+# @ _s
+msgid "When you turn on this option, the Sub Footer will displayed in full width."
+msgstr "عرض بخش کپی رایت را می توانید از این بخش مدیریت نمایید. در صورت روشن بودن این گزینه، بخش کپی رایت به صورت تمام صفحه نمایش داده می شود."
+
+# @ _s
+msgid "Sub Footer Color"
+msgstr "رنگ کپی رایت"
+
+# @ _s
+msgid "Sub Footer color can specify from this section. More options form <code>Customization</code> tab."
+msgstr "رنگ بخش کپی رایت را می توانید از این بخش مدیریت نمایید. در صورت انتخاب گزینه تیره، محتوای بخش کپی رایت با رنگ سفید و پس زمینه آن با رنگ مشکی و برعکس برای گزینه روشن، نمایش داده خواهد شد. رنگ پس زمینه بخش کپی رایت را می توانید از بخش <code>شخصی سازی</code> نیز به دلخواه تغییر دهید."
+
+# @ _s
+msgid "Sub Footer Logo"
+msgstr "تصویر لوگوی پابرگ"
+
+# @ _s
+msgid "This image will be displayed in the Sub Footer."
+msgstr "یک تصویر به عنوان لوگوی سایت انتخاب نمایید. این تصویر در پابرگ نمایش داده خواهد شد."
+
+# @ _s
+msgid "CopyRight Text"
+msgstr "متن کپی رایت"
+
+# @ _s
+msgid "Put some text as your site CopyRight here. this will show on Sub Footer."
+msgstr "یک متن به عنوان کپی رایت سایت خود در این مکان قرار دهید. این متن در انتهای سایت نمایش داده خواهد شد."
+
+# @ _s
+msgid "CopyRight &copy 2016, IranoMag. All Rights Reserved For IranoWeb."
+msgstr "کلیه حقوق مادی و معنوی پوسته ایرانومگ 2 متعلق به وب سایت ایرانووب بوده و هرگونه کپی برداری و انتشار غیرمجاز پیگرد قانونی دارد."
+
+# @ _s
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+# @ _s
+msgid "Google Fonts"
+msgstr "فونت های گوگل"
+
+# @ _s
+msgid "If \"ON\", you can use any Google fonts, \"OFF\" useing default IranoMag Roboto Condensed font."
+msgstr "در صورت روشن کردن این گزینه می توانید از فونت های گوگل برای متون انگلیسی استفاده نمایید. در غیر این صورت از فونت پیش فرض پوسته Roboto Condensed استفاده خواهد شد."
+
+# @ _s
+msgid "Font Subset"
+msgstr "زیر مجموعه فونت"
+
+# @ _s
+msgid "You can select font subset from this section."
+msgstr "شما می توانید زیر مجموعه فونت را از این بخش تعیین نمایید."
+
+# @ _s
+msgid "Default"
+msgstr "پیش فرض"
+
+# @ _s
+msgid "Cyrillic"
+msgstr "Cyrillic"
+
+# @ _s
+msgid "Greek"
+msgstr "Greek"
+
+# @ _s
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+# @ _s
+msgid "Body Font"
+msgstr "فونت پیش فرض"
+
+# @ _s
+msgid "Heading Font"
+msgstr "فونت عناوین"
+
+# @ _s
+msgid "Text Font"
+msgstr "فونت متن"
+
+# @ _s
+msgid "Demo Import"
+msgstr "نسخه پیش نمایش"
+
+# @ _s
+msgid "Import Demo Content"
+msgstr "درون ریزی نسخه پیش نمایش"
+
+# @ _s
+msgid "Display About Author"
+msgstr "نمایش 'درباره نویسنده'"
+
+# @ _s
+msgid "Enable/Disable About Author Box."
+msgstr "غعال/غیر فعال کردن درباره نویسنده در انتهای مطالب."
+
+# @ _s
+msgid "Download Box"
+msgstr "دانلود باکس"
+
+# @ _s
+msgid "If selected post has files to download, turn this on."
+msgstr "در صورتی که این مطلب دارای فایل دانلودی است این گزینه را روشن نمایید."
+
+# @ _s
+msgid "Download Links"
+msgstr "لینک های دانلود"
+
+# @ _s
+msgid "You can add download links for your post from this section."
+msgstr "شما می توانید لینک های دانلود برای این مطلب را در این قسمت قرار دهید."
+
+# @ _s
+msgid "Link"
+msgstr "لینک"
+
+# @ _s
+msgid "Item Type"
+msgstr "نوع آیتم"
+
+# @ _s
+msgid "Description"
+msgstr "توضیحات"
+
+# @ _s
+msgid "External Link"
+msgstr "لینک خارجی"
+
+# @ _s
+msgid "Space"
+msgstr "فاصله"
+
+# @ _s
+msgid "Download Descriptions"
+msgstr "توضیحات دانلود"
+
+# @ _s
+msgid "Download Password"
+msgstr "رمز فایل"
+
+# @ _s
+msgid "Source Name"
+msgstr "نام منبع"
+
+# @ _s
+msgid "Article source name goes here."
+msgstr "نام منبع مطلب را در این مکان وارد نمایید."
+
+# @ _s
+msgid "Source Link"
+msgstr "لینک منبع"
+
+# @ _s
+msgid "Article source link goes here."
+msgstr "لینک منبع مطلب را در این مکان وارد نمایید."
+
+# @ _s
+msgid "Source"
+msgstr "منبع"
+
+# @ _s
+msgid "Rel Attr"
+msgstr "صفت لینک"
+
+# @ _s
+msgid "Enter image link rel attribute. Example: bookmark, follow, nofollow & ..."
+msgstr "صفت ارتباط مابین لینک و صفحه را در این قیمت وارد نمایید. مثلا bookmark، follow، nofollow و ..."
+
+# @ _s
+msgid "Aparat Link"
+msgstr "لینک ویدئو در آپارات یا نماشا"
+
+# @ _s
+msgid "Enter Aparat Link."
+msgstr "آدرس ویدئو در آپارات یا نماشا را در این قسمت وارد نمایید."
+
+# @ _s
+msgid "Display a video from Aparat."
+msgstr "یک ویدئو از آپارات یا نماشا را نمایش می دهد."
+
+# @ _s
+msgid "Display Video."
+msgstr "نمایش ویدئو."
+
+# @ _s
+msgid "IranoMag: Video widget"
+msgstr "ایرانومگ: ویدئو"
+
+# @ _s
+msgid "Video"
+msgstr "ویدئو"
+
+# @ _s
+msgid "Related Posts"
+msgstr "مطالب مرتبط"
+
+# @ _s
+msgid "Display Related Posts"
+msgstr "نمایش مطالب مرتبط"
+
+# @ _s
+msgid "Enable/Disable Related Posts Section."
+msgstr "غعال/غیر فعال کردن بخش مطالب مرتبط در صفحه نمایش مطالب."
+
+# @ _s
+msgid "Related Posts Count"
+msgstr "تعداد مطالب مرتبط"
+
+# @ _s
+msgid "How many posts do you want to display as Related Posts?"
+msgstr "می خواهید چه تعداد مطلب به عنوان مطالب مرتبط نمایش داده شود؟"
+
+# @ _s
+msgid "Post Top Ad"
+msgstr "تبلیغات بالای مطلب"
+
+# @ _s
+msgid "The content of this section will be displayed on Post Top."
+msgstr "محتوای این بخش در بالای صفحه نمایش مطلب نمایش داده خواهد شد."
+
+# @ _s
+msgid "Post Bottom Ad"
+msgstr "تبلیغات پایین مطلب"
+
+# @ _s
+msgid "The content of this section will be displayed on Post Bottom."
+msgstr "محتوای این بخش در پایین صفحه نمایش مطلب نمایش داده خواهد شد."
+
+# @ _s
+msgid "Multimedia"
+msgstr "چندرسانه ای"

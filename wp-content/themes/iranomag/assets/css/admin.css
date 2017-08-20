@@ -1,0 +1,86 @@
+/*
+    Wordpress
+*/
+#post-body-content .wpb_element_title, .wpb_element_label, .vc_ui-tabs-line-trigger, .vc_ui-button, .vc_checkbox-label, .wpb-select, .dropable_el, .vc_btn-content, .vc_settings {
+    font-family: Tahoma, sans-serif!important;
+}
+/* 
+    Wordpress menu
+*/
+.clearfix{
+    display: block;
+}
+.clearfix:after, .clearfix:before{
+    display: table;
+    clear: both;
+    content: "";
+}
+.menu-item-depth-1 .im_menu_options {
+    display: none;
+    visibility: hidden;
+}
+
+/* 
+    Some improvements for OptionTree theme panel
+*/
+.format-setting-wrap, .option-tree-sortable .format-settings {
+    padding: 0;
+}
+.option-tree-ui-buttons {
+    margin: 11px 5px 0 5px;
+}
+.wrap.settings-wrap .ui-tabs-nav li a {
+    padding: 10px 12px 10px 5px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.wrap.settings-wrap .ui-tabs-nav li a:hover, .wrap.settings-wrap .ui-tabs-nav li.ui-state-active a {
+    color: #686868;
+}
+#option-tree-settings-api .description h3, #option-tree-settings-api .format-setting-label .label, #poststuff .format-setting-label .label {
+    color: #787878!important;
+    font-size: 12px!important;
+    font-weight: bold!important;
+    line-height: 1!important;
+    padding: 0 0 5px 0!important;
+}
+#option-tree-settings-api .postbox {
+    margin: 0;
+}
+.format-settings {
+    border-bottom: 1px solid #e6e6e6;
+    padding: 0 20px 15px 20px;
+    width: auto;
+}
+.format-settings:nth-child(2n+2) {
+    background-color: #f9f9f9;
+    border-top: 1px solid #fff;
+}
+.format-setting-label {
+    border-bottom: none;
+    margin: 0;
+}
+.format-settings .description:before {
+    background-color: #dc1681;
+    color: #fff;
+    content: 'توضیحات';
+    font-size: 10px;
+    padding: 3px 5px;
+    border-radius: 3px;
+    margin-left: 5px;
+}
+.format-settings .description {
+    color: #686868;
+    font-size: 11px;
+    border-radius: 3px;
+    margin-left: 5px;
+}
+.warning {
+    color: #dc1681;
+    font-size: 11px;
+}
+.im-category-colorpicker.format-settings {
+    border-bottom-style: dashed!important;
+    padding-top: 10px;
+    padding-bottom: 5px!important;
+}

@@ -1,0 +1,32 @@
+/*
+Theme Name: ایرانومگ 2
+Theme URI: http://www.iranoweb.com
+Author: محمد ابراهیم رمضانخانی
+Author URI: http://www.iranoweb.com
+Description: نسخه دوم از پوسته ایرانومگ با طراحی جدید و امکانات بیشتر، بر پایه پوسته آغازین Underscores ساخته شده است. ایرانومگ در نسخه جدید کاملا باز طراحی و باز نویسی شده است. در این نسخه از ایرانومگ مگامنو، ستون ثابت، تنظیمات پیشرفته برای پوسته و مطالب و امکان ساخت صفحات دلخواه با افزونه Visual Composer فراهم شده است. با توجه به تجربیات گذشته، در این نسخه از افزونه های اضافه استفاده نشده و تمام افزونه های مورد نیاز پوسته کدنویسی و طراحی شده اند. جهت افزایش سرعت بارگذاری پوسته، Bootstrap حذف شده است و بخش تنظیمات پوسته از فریمورک Redux به OptionTree تغییر یافته است. این نسخه نیز به مانند نسخه قبل دارای ابزارک های کاربردی اختصاصی است و از فهرست های دلخواه پشتیبانی می کند. ایرانومگ 2 برای مشاهده در دستگاه ها با اندازه صفحات نمایش مختلف بهینه شده است. ثبت و نمایش امتیاز برای مطالب، تعیین ساختار مطالب بین گزینه های استاندارد، ویدئو و گالری با چندین حالت نمایش مختلف و همچنین تعیین دسته اصلی مطالب نیز از جمله امکان اضافه شده به این نسخه از پوسته ایرانومگ هستند.
+Version: 1.6.3
+License: Licensed for IranoWeb
+License URI: http://www.iranoweb.com
+Text Domain: iranomag
+Tags: پوسته مجله خبری, دو ستونه, پنل تنظیمات پیشرفته,visual composer,واکنشگرا,پوسته ,قالب وردپرس,پوسته موزیک,پوسته دانلود,نقد و بررسی,ابزارک اختصاصی,پوسته بازی,پوسته ویدئو,مگامنو
+*/
+//@import "assets/fonts/vazir-fd.css";
+
+.lang-switcher {
+    font-family: iran, Consolas, Ubuntu, sans-serif!important;
+    font-weight: bold;
+    color: #33aefd !important;
+}
+
+.current-lang {
+    font-family: iran, Consolas, Ubuntu, sans-serif!important;
+    background: #33aefd!important;
+    color: #fcfcfc !important;
+    font-weight: bold !important;
+    border-radius: 3px;
+    padding: 6px 10px;
+}
+
+a.disabled {
+    pointer-events: none;
+}
