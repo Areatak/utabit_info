@@ -94,10 +94,10 @@
 		) );
 	?> 
 </div>
-<!--<div class="im-entry-comments">
+<div class="im-entry-comments">
 	<?php
-/*		if ( comments_open() || get_comments_number() ) :
+		if ( comments_open() || get_comments_number() ) :
 			comments_template();
 		endif;
-	*/?>
-</div>-->
+	?>
+</div>
